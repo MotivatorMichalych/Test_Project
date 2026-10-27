@@ -10,3 +10,4 @@ Binaries
 *.xcodeproj
 *.xcworkspace
 *.log
+opencode.json
